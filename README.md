@@ -4,7 +4,7 @@ Smart Water Meter is a device which monitors the water comsumption by an entity 
 ## How to run
 1. Download Arduino IDE https://www.arduino.cc/en/software.
 2. Download and Install all the dependencies given below.
-3. Create a new .ino file and paste the code or upload the downloaded SWM.ino file.
+3. Create a new .ino file and paste the code or upload the downloaded SWM.ino file directly.
 4. Create a new ThingsSpeak https://thingspeak.com/ account and channel for tracking the data note down the channel ID and Key.
 5. Change the channel ID and Key in the code to your requirements, given in line 30 and 31 of SWM.ino.
 6. Setup wifi access to the ESP8266 by changing the wifi SSID and Password to your desired network, given in line 56 of SWM.ino file.
