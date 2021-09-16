@@ -1,5 +1,5 @@
 # SWM
-Smart Water Meter is an device to monitor the water comsumption by an entity for any required time, subjecting to the user requirements, the obtained data can be futher saved for documentation in the cloud which can be used for analytics.
+Smart Water Meter is a device which monitor the water comsumption by an entity for any required time, subjecting to the user requirements, the obtained data can be futher saved for documentation in the cloud which can be used for analytics.
 
 ## How to run
 1. Download Arduino IDE https://www.arduino.cc/en/software.
