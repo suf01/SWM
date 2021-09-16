@@ -20,5 +20,5 @@ Smart Water Meter is a device which monitors the water comsumption by an entity 
 1. EEPROM: library for Arduino IDE to make code compatible with ESP8266 microcontroller.
 2. ESP8266WiFi: library for Arduino IDE for settingup the wifi module of ESP8266.
 3. ThingSpeak: library for Arduino IDE for uploading the data to cloud.
-4. Adafruit_GFX: library for Arduino IDE to enable graphical features of the oled display.
+4. Adafruit_GFX: library for Arduino IDE to enable graphical features of the oled display (ST7789).
 5. Adafruit_ST7789: library for Arduino IDE for interfacing the oled display (ST7789).
